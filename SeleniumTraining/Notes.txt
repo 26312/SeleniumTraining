@@ -1,0 +1,18 @@
+
+
+
+The Web Driver Manager used for Selenium Tutorial is from following 
+maven rep:
+
+https://mvnrepository.com/artifact/ru.sbtqa/webdrivermanager/2.4.1
+
+Thus, no need to seprately place the ChromeDriver.exe file
+//System.getProperty("webdriver.chrome.driver", "E:\\Selenium\\chromedriver-win64\\browserdriver\\chromedriver.exe");
+
+
+
+The above driver manager is compatible with current Chrome browser version: Version 126.0.6478.183 
+
+
+The WebDriverManager dependency for Edge Browser in Maven repo:
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-edge-driver/4.23.0
